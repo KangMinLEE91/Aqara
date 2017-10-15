@@ -15,7 +15,7 @@
 import physicalgraph.zigbee.clusters.iaszone.ZoneStatus
 
 metadata {
-    definition (name: "Xiaomi Aqara Water Sensor", namespace: "MaverickASC", author: "MaverickASC") {
+    definition (name: "Xiaomi Aqara Water Sensor", namespace: "Underdawgq", author: "MaverickASC") {
         capability "Actuator"
         capability "Configuration"
         capability "Refresh"
